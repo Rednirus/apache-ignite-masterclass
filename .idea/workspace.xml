@@ -5,46 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5998c5b7-a379-4b42-b056-8800dfb67275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/cache-ignite-sys-cache/index.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/maintenance_tasks.mntc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/metastorage/part-0.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/metastorage/part-1.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000000.wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000001.wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000002.wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000003.wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ServerStartup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/CacheConfigUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/CacheContinuousQueryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/ComputeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/DataPopulatorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/IgniteMetricExporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/QueriesClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/CacheStoreFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/DepartmentCacheStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateDepartmentsTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateStudentsTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/SimpleTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/model/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/model/StudentAffinityKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ignite-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ServerStartup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ServerStartup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/App1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/App3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/App4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/CacheConfigUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/CacheConfigUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/CacheContinuousQueryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/CacheContinuousQueryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/ComputeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/ComputeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/DataPopulatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/DataPopulatorClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/IgniteMetricExporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/IgniteMetricExporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/QueriesClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/QueriesClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/CacheStoreFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/CacheStoreFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/DepartmentCacheStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/DepartmentCacheStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateDepartmentsTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateDepartmentsTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateStudentsTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateStudentsTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/ignite/compute/SimpleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/SimpleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/model/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/model/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/model/StudentAffinityKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/model/StudentAffinityKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ignite-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ignite-config.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +39,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/training/ServerStartup.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -75,6 +68,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -107,6 +107,32 @@
               <item name="apache-ignite-masterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="apache-ignite-masterclass" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="apache-ignite-masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ignite-masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apache-ignite-masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ignite-masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apache-ignite-masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ignite-masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apache-ignite-masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ignite-masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -121,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1647009841656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1647011615129" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -283,6 +309,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -316,7 +343,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/training/ServerStartup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
         </state>
       </provider>
     </entry>

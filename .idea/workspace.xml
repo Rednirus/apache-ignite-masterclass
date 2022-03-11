@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5998c5b7-a379-4b42-b056-8800dfb67275" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/cache-ignite-sys-cache/index.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/maintenance_tasks.mntc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/metastorage/part-0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/node00-ae582364-eb69-49b1-af6c-bd8967be6137/metastorage/part-1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000000.wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000001.wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000002.wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite/work/db/wal/node00-ae582364-eb69-49b1-af6c-bd8967be6137/0000000000000003.wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ServerStartup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/App4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/CacheConfigUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/CacheContinuousQueryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/ComputeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/DataPopulatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/IgniteMetricExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/QueriesClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/CacheStoreFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/cache/store/DepartmentCacheStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateDepartmentsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/LocateStudentsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/ignite/compute/SimpleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/model/StudentAffinityKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ignite-config.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/training/ServerStartup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="258eSOixkWLLw3DehMz6ZFZGUyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apache-ignite-masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ignite-masterclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1647009841656" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mehrasu\Downloads\ignite-essentials-developer-training-main\src\main\java\training" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="training.ignite" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerStartup">
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.ignite.App1" />
+      <module name="apache-ignite-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.ignite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.ignite.App2" />
+      <module name="apache-ignite-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.ignite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.ignite.App3" />
+      <module name="apache-ignite-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.ignite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataPopulatorClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.ignite.DataPopulatorClient" />
+      <module name="apache-ignite-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.ignite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStartup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.ServerStartup" />
+      <module name="apache-ignite-masterclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="apache-ignite-masterclass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="apache-ignite-masterclass" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerStartup" />
+        <item itemvalue="Application.App1" />
+        <item itemvalue="Application.DataPopulatorClient" />
+        <item itemvalue="Application.App3" />
+        <item itemvalue="Application.App2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5998c5b7-a379-4b42-b056-8800dfb67275" name="Changes" comment="" />
+      <created>1644913142312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644913142312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36006546" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/training/ServerStartup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
